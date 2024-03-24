@@ -4,3 +4,10 @@ Overview
 
 ##Project Objective
 **The primary objective of this project is to offer a comprehensive understanding of the funding landscape within the Indian startup ecosystem during the specified years. By examining key aspects such as funding amounts, startup details, and investor information, users can gain insights into the trends and dynamics of the Indian startup scene.**
+
+##📝LICENSE
+
+
+ This project is [MIT](./LICENSE) licensed.
+
+I acknowledge my project team contributors the Azubi Africa tutors and trainers. 
